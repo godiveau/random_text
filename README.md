@@ -1,5 +1,5 @@
 Javascript qui affiche une phrase aléatoire
-    <span id='phrase'>Ici la phrase</span><br>
+<pwd>    <span id='phrase'>Ici la phrase</span><br> </pwd>
 
 
 Avec un bouton en dessous qui affiche une nouvelle phrase aléatoire à la place :
